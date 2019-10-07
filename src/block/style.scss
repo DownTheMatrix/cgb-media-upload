@@ -1,0 +1,27 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+ .wp-block-cgb-block-image-placeholder  {
+  background: $white;
+  border: 0.2rem dotted $green;
+  color: $black;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.media {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-right: 3rem;
+
+  &:hover {
+    cursor: pointer;
+  }
+}

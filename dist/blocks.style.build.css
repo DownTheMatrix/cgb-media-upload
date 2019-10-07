@@ -1,0 +1,30 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+.wp-block-cgb-block-image-placeholder {
+  background: #f4f4f4;
+  border: 0.2rem dotted #bada55;
+  color: #292929;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center; }
+
+.media {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-right: 3rem; }
+  .media:hover {
+    cursor: pointer; }
