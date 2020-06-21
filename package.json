@@ -8,6 +8,7 @@
     "eject": "cgb-scripts eject"
   },
   "dependencies": {
+    "acorn": "^7.3.1",
     "cgb-scripts": "1.20.0",
     "mem": "^5.1.1"
   }
